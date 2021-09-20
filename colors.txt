@@ -1,0 +1,240 @@
+agate
+aliceblue
+almond
+amaranth
+amber
+amethyst
+antiquewhite
+apricot
+aqua
+aquamarine
+artichoke
+asparagus
+auburn
+azure
+banana
+beige
+beryl
+bisque
+black
+blanchedalmond
+blond
+blue
+blueviolet
+brass
+bronze
+brown
+burgundy
+burlywood
+cadetblue
+carmine
+carrot
+celadon
+cerise
+cerulean
+charcoal
+chartreuse
+cherry
+chestnut
+chocolate
+cinnamon
+cobalt
+copper
+coral
+cornflower
+cornflowerblue
+cornsilk
+cream
+crimson
+cyan
+daffodil
+dandelion
+dark blue
+dark cyan
+dark goldenrod
+dark gray
+dark green
+dark grey
+dark khaki
+dark magenta
+dark olivegreen
+dark orange
+dark orchid
+dark red
+dark salmon
+dark seagreen
+dark slateblue
+dark slategray
+dark slategrey
+dark turquoise
+dark violet
+deep pink
+deep skyblue
+denim
+diamond
+dimgray
+dimgrey
+dodgerblue
+ebony
+eggplant
+emerald
+firebrick
+floralwhite
+forestgreen
+fuchsia
+gainsboro
+garnet
+ghostwhite
+ginger
+gold
+golden
+goldenrod
+granite
+gray
+green
+green yellow
+grey
+honeydew
+hotpink
+indianred
+indigo
+infrared
+ivory
+jade
+jasmine
+jasper
+khaki
+lavender
+lavenderblush
+lawngreen
+lemon
+lemonchiffon
+light blue
+light coral
+light cyan
+light goldenrod yellow
+light gray
+light green
+light grey
+light pink
+light salmon
+light seagreen
+light skyblue
+light slategray
+light slategrey
+light steelblue
+light yellow
+lilac
+lime
+limegreen
+linen
+magenta
+mahogany
+maize
+malachite
+marigold
+maroon
+mauve
+medium aquamarine
+medium blue
+medium orchid
+medium purple
+medium seagreen
+medium slateblue
+medium springgreen
+medium turquoise
+medium violetred
+midnight blue
+mintcream
+mistyrose
+moccasin
+mustard
+myrtle
+navajo white
+navy
+nickel
+ochre
+oldlace
+olive
+olivedrab
+olivine
+onyx
+opal
+orange
+orangered
+orchid
+pale goldenrod
+pale green
+pale turquoise
+pale violetred
+papaya
+papayawhip
+peach
+peachpuff
+pearl
+peridot
+persimmon
+peru
+pink
+pistachio
+platinum
+plum
+powderblue
+pumpkin
+purple
+quartz
+raspberry
+rebeccapurple
+red
+rose
+rosybrown
+royalblue
+ruby
+russet
+saddlebrown
+saffron
+sage
+salmon
+sandy
+sandybrown
+sapphire
+scarlet
+seagreen
+seashell
+sepia
+sienna
+silver
+skyblue
+slate blue
+slate gray
+slate grey
+snow
+spring green
+steel
+steelblue
+tan
+tangerine
+taupe
+teal
+thistle
+tomato
+topaz
+tourmaline
+tungsten
+turquoise
+tuscan
+ultramarine
+ultraviolet
+umber
+vanilla
+vermilion
+violet
+viridian
+wheat
+white
+whitesmoke
+wisteria
+xanthic
+yellow
+yellowgreen
+zircon

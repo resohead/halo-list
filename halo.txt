@@ -3,15 +3,15 @@
 10 Minutes Too Early
 104 Ways To Die
 1K Club
-1st Movement of The Odyssey
+1st Movement of The Odyssey
 2 Bugs Are Better Than 1
 24 Hours of Quality
-2nd Movement of the Odyssey
+2nd Movement of the Odyssey
 343 Guilty Spark
 343 Industries
-3rd Movement of The Odyssey
+3rd Movement of The Odyssey
 4AM
-4th Movement of The Odyssey
+4th Movement of The Odyssey
 A Crate of Medals
 A Day To Remember
 A Few Trinkets
@@ -38,12 +38,12 @@ A Psalm Every Day
 A Spoonful of Blamite
 A Storage Solution
 A strong showing for the week
-A Private Service
-A Spartan Rises
-A Walk in the Woods
+A Private Service
+A Spartan Rises
+A Walk in the Woods
 Abandon
 Abolition
-Aborea Above
+Aborea Above
 Absolution
 Abstract Endurance
 Abyss
@@ -53,7 +53,7 @@ Ace of Spades
 Acheron
 Achilles
 Acrisius
-Action Figure Hands
+Action Figure Hands
 Activation of the Array
 Active Rooster
 Ad Victoriam
@@ -65,7 +65,7 @@ Advent
 Adventurer
 Aegis Fate
 Aficiando
-Africa Suite
+Africa Suite
 Aftermath
 Again with the Tentacles
 Age of Reclamation
@@ -83,7 +83,7 @@ Aladdin
 Alas, Poor Andrew Thomas
 Alas, Poor Yorick
 Albatross
-Alien Corridors
+Alien Corridors
 Aliens
 All According to Plan...
 All Alone
@@ -108,20 +108,20 @@ Alpha Site
 Alpine Basin
 Altar
 Altitude
-Ambient Wonder
+Ambient Wonder
 Amethyst
 An Artist's Canvas
 An Ear Full
 An Elegant Weapon
 An Honor Serving
-An End of Dying
+An End of Dying
 Anarosa
 Anchor
 Anchor 9
 Anchor Nine
 Anchored
 Ancient One
-Ancient Machine
+Ancient Machine
 Ancients
 and I don't do bits and pieces
 And my shadow
@@ -160,15 +160,15 @@ Arclight
 Ardent Prayer
 Are We There Yet?
 Argent Moon
-Argent Moon
+Argent Moon
 Argonaut
 Argonaut Idmon
 Argonaut Nestor
 Argus
 Argus Arestor
 Ariadne
-Arise in Valor
-Arise, Goodbye
+Arise in Valor
+Arise, Goodbye
 Arm Stopped
 Armageddon's Edge
 Armorer
@@ -187,7 +187,7 @@ Ascent
 Ashes
 Ashes to Ashes
 Askar
-Asphalt and Ablution
+Asphalt and Ablution
 Assassin
 Assassin
 Assassination
@@ -202,7 +202,7 @@ Assembly
 Assembly Skull
 Asylum
 At the Ready
-At Any Cost
+At Any Cost
 Athens
 Athlon
 Athlon Champion
@@ -251,8 +251,8 @@ Back In The Day
 Backscratcher
 Backwash
 Bad Blood
-Bad Dream
-Bad Here Day
+Bad Dream
+Bad Here Day
 Badge
 Badlands
 Bailey
@@ -300,7 +300,7 @@ Battle of Noctus
 Battle of Onyx
 Battle of Sunaion
 Battle of the greater Ark
-Battle Aspect
+Battle Aspect
 Be Like Marty
 Beachhead
 Beacon Armed
@@ -324,24 +324,24 @@ Before the Storm
 Before This Gets Out of Hand
 Begins with a Single Step
 Behind Enemy Lines
-Behold a Pale Horse
+Behold a Pale Horse
 Belfast
 Believe
 Believe in a Hero
 Belleisle
 Bellerophon
 Bellicose
-Belly of the Beast
+Belly of the Beast
 Beltane
 Benchwarmer
 Berserker's Claw
-Best Guess At Best
+Best Guess At Best
 Beta
 Betcha can't stick it...
 Betrayal of Trust
 Betrayal on Talitsa
 Better With Age
-Between Beams
+Between Beams
 Beyond
 Big Al's Scooter
 Big Green Style
@@ -357,16 +357,16 @@ Birth to Light
 Birthing Period
 Bison
 Bite The Hand
-Bits and Pieces
+Bits and Pieces
 Bitterness-of-the-Vanquished
 Bivouacked
 Black Eye
 Black Eye Skull
 Black Widow
 Black Widow
-Black Tower
+Black Tower
 Blackout
-Blade and Burden
+Blade and Burden
 Blades of Fury
 Blaze of Glory
 Blight of the Profane
@@ -386,17 +386,17 @@ Bloodline
 Bloodstars
 Bloodthirst
 Bloody Arrow
-Blow Me Away
+Blow Me Away
 Blue Steel
 Blue Team
-Blue Team
+Blue Team
 Blunt Instruments
 Boarding Action
 Boardwalk
 Bodyguard
 Boltshot
 Bomb Squad
-Bon Voyage, Bon Chance
+Bon Voyage, Bon Chance
 Bonebreaker
 Bonecracker
 Boneyard
@@ -411,7 +411,7 @@ Boot Camp
 Boot Camp Hero
 Both Barrels
 Both Tubes
-Both Ways
+Both Ways
 Boulevard
 Boundless
 Boundless Artifice
@@ -420,7 +420,7 @@ Bounty Hunter
 Bracer
 Brainpan
 Brasidas
-Bravery, Brotherhood
+Bravery, Brotherhood
 Breach
 Breach of the Bulwark
 Breaker
@@ -428,18 +428,18 @@ Breaker Doomsday
 Breaker Hatchetman
 Breaking Quarantine
 Breaking Strain
-Breaking the Code
-Breaking the Covenant
+Breaking the Code
+Breaking the Covenant
 Breakneck
 Breakout
 Breakpoint
 Breakthrough
 Breath of Annihilation
-Bridge Too Far
+Bridge Too Far
 Brilliant Gift
 Brilliant Shores
 Bring a Bigger Gun
-Bring a Bigger Gun
+Bring a Bigger Gun
 Bringing in the Big Guns
 Bro Hammer
 Broadsword
@@ -447,7 +447,7 @@ Bromageddon
 Bropocalypse
 Bros to the Close
 Brother's Keeper
-Brothers in Arms
+Brothers in Arms
 Brovershield
 Brute
 Brute Force
@@ -462,7 +462,7 @@ Buckingham
 Buenos Aires
 Buffalo
 Build for Success
-Builder's Legacy
+Builder's Legacy
 Bulldog
 Bullet Sponge
 Bulletproof
@@ -482,10 +482,10 @@ Buzzsaw
 C.A.M.S
 Cain
 Cairo Station
-Cairo Suite
-Cairo Suite 1
+Cairo Suite
+Cairo Suite 1
 Caladcholg
-Calculated Risk
+Calculated Risk
 Calcutta
 Callin' in the Big Guns
 Callisto
@@ -508,11 +508,11 @@ Can't Stop Here, This is Brute Country
 Capacious Cartography
 Capped
 Capsule
-Captain, My Captain
+Captain, My Captain
 Captured Chance
 Card shark
 Careful Steps
-Careful Steps
+Careful Steps
 Carrier
 Carrow
 Cartographer
@@ -520,10 +520,10 @@ Cascadia
 Castle
 Castle
 Castle Crasher
-Castle Defense
+Castle Defense
 Cataclysm
 Cataclysmic
-Catastrophic Failure
+Catastrophic Failure
 Catch
 Catch 'Em Napping
 Catch Skull
@@ -546,7 +546,7 @@ Chamomile
 Champion
 Chaos
 Chares
-Charity's Irony
+Charity's Irony
 Charon
 Charted
 Charum Hakkor
@@ -567,7 +567,7 @@ Chiron TL-34
 Chiroptera
 Chirping Spider
 Chol Von's Not Gonna Like This
-Choose Wisely
+Choose Wisely
 Choreographite
 Chosen
 Chromed Targetmaster
@@ -593,15 +593,15 @@ Cleave
 Clever
 Clever Girl
 Climate Control
-Cloaked in Blackness
+Cloaked in Blackness
 Clockwork
 Close Call
 Close Quarters Combat
 Closed Fist
 Cloud
 Cloud Skull
-Cloud Chariot
-Cloud City
+Cloud Chariot
+Cloud City
 Clubs
 CMA Vostok
 Coagulation
@@ -611,7 +611,7 @@ Coda
 Cold Storage
 Coliseum
 Collateral Damage
-Collateral Harm
+Collateral Harm
 Collecting a dream
 Collection Eligibility Confirmed
 Colossus
@@ -662,7 +662,7 @@ Coral Sea
 Corbulo
 Corpsemaker
 Cortana
-Cortana Suite (No More Dead Heroes
+Cortana Suite (No More Dead Heroes
 Cortana's Sacrifice
 Corvette
 Countdown
@@ -673,13 +673,13 @@ Covenant
 Covenant "Hot Drop"
 Covenant Escape
 Covenant Resurgence
-Covenant Dance
-Covenant Prayers
+Covenant Dance
+Covenant Prayers
 Cowardly Grunt
 Cowbell
 Cowbell Skull
 CQB
-Cracked Legend
+Cracked Legend
 Crackin' Skulls
 Cradle
 Crater
@@ -690,7 +690,7 @@ Crimson
 Crimson Alone
 Crossed Swords
 Crossed Swords
-Crossed Paths
+Crossed Paths
 Crossfire
 Crosshairs
 Cross-Mappin'
@@ -702,7 +702,7 @@ Crushed Colors
 Cry Havoc
 Cryo
 Crypt
-Cryptic Whisper
+Cryptic Whisper
 Cryptum
 Cube
 Cup of Death
@@ -736,7 +736,7 @@ Darkstar Station
 Darter
 Dartmouth
 Data Hive
-Data Hive
+Data Hive
 Dauntless
 David and Goliath
 Dawn
@@ -744,7 +744,7 @@ Dawn Under Heaven
 Dawn-over-Fields
 Day of Jubilation
 Daybreak
-De Facto The Matter
+De Facto The Matter
 Deadeye
 Deadlock
 Dear Diary...
@@ -764,7 +764,7 @@ Defender of the Storm
 Defender Redoubt
 Defense of the Enemies' Airbase
 Deference of Darkness
-Deference for Darkness
+Deference for Darkness
 Déjà Vu
 Delicious Brains
 Delighted
@@ -773,11 +773,11 @@ Delphi
 Delta
 Delta
 Delta Halo
-Delta Halo Suite
+Delta Halo Suite
 Democritus
 Demolition Expert
 Demon
-Demons and Heretics
+Demons and Heretics
 Demonslayer
 Departure
 Depths
@@ -785,7 +785,7 @@ Derelict
 Descend from the Perch
 Design seed
 Desolation
-Desperate Measures
+Desperate Measures
 Despondent Pyre
 Destination Vacation
 Destroyer
@@ -793,17 +793,17 @@ Destruction of the Ark
 Determined
 Detour The Great Journey
 Devastating
-Devils... Monsters...
+Devils... Monsters...
 Devotee
 Devotion
-Dewy Decimate
+Dewy Decimate
 Diadochi
 Diamonds
 Dianthus
 Did Somebody Say...
 Did You Major in Marine Bio?
 Didactic
-Didactic Principle
+Didactic Principle
 Didact's Hand
 Didact's ship
 Didact's Signet
@@ -862,7 +862,7 @@ Double Stuff
 Double Time!
 Double Trouble
 Drain Cleaner
-Dread Intrusion
+Dread Intrusion
 Dreadnaught
 Dresden
 Drone
@@ -870,11 +870,11 @@ Drop A Quarter
 Drop Wall
 Drumrun
 Duellist
-Dug In
+Dug In
 Dunedin
 Dusk
 Dust and Echoes
-Dust and Echoes
+Dust and Echoes
 Dutch
 Dying Star
 Dynamic Duo
@@ -886,7 +886,7 @@ E E E
 Eagle
 Eagle Square
 Ear Bender
-Earth City
+Earth City
 Earth's Fleet
 Easy As One Two Three
 Easy to Overlook
@@ -897,13 +897,13 @@ Ecto
 Eden
 Eden Rising
 Edge of Umbra
-Edge Closer
+Edge Closer
 Elder Signs
 Elementary
 Elephant
 Elephant
 Elevated
-Eliminate the Resistance
+Eliminate the Resistance
 Elite
 Elitist
 Elongation
@@ -920,7 +920,7 @@ Enamored
 Enchanted
 End of the Line
 End of the War
-End Game
+End Game
 Endeavor
 Endgame
 Endless Fun
@@ -930,24 +930,24 @@ Enduring Conviction
 Enemies Everywhere!
 Enemy Lines
 Enemy of my Enemy
-Enemy of my Enemy
+Enemy of my Enemy
 Energy
 Energy Projector
 Energy Sword
-Energy Efficient
+Energy Efficient
 Enforcer
 Enforcer Strongarm
 Engage
 Engineer
 Engineer
-Enough Dead Heroes
+Enough Dead Heroes
 Entombed
 Envoy
 Envy
 Epic Evolution Reborn
 Epic Grinder
-Epic Evolution
-Epic Evolution Reborn
+Epic Evolution
+Epic Evolution Reborn
 Epilogue
 Epitaph
 Epoch
@@ -982,7 +982,7 @@ Excision
 Execution
 Exfiltration
 Exile
-Exit Window
+Exit Window
 Exodus
 Expedition
 Expendable
@@ -1016,7 +1016,7 @@ Famine Skull
 Far Sight Lost
 Far Storm
 Far Vision
-Farthest Outpost
+Farthest Outpost
 Fascinated
 Fast and Low
 Fast Break
@@ -1045,10 +1045,10 @@ Final Summit
 Finale
 Finders Keepers
 Finders, Keepers
-Finish the Fight
+Finish the Fight
 Finished the Fight
 Finishing Blow
-Finishing the Fight
+Finishing the Fight
 Fire Drill
 Fire Support
 Fire Unicorn
@@ -1074,13 +1074,13 @@ First steps
 First Stop: Anywhere But Here!
 First Strike
 First Touch
-First Step
+First Step
 Firstborn
 Fissure
 Fissures
 Fisticuffs
 Fists of Fury
-Five Long Years
+Five Long Years
 Flag
 Flag
 Flag Carrier
@@ -1097,13 +1097,13 @@ Flaming Ninja
 Flaming Ninja
 Flanker
 Flash of Light
-Flawed Legacy
+Flawed Legacy
 Fleet Battles
 Fleet of Glory
 Fleet of Retribution
 Flenser
 Fleur de Lis
-Flip and Sizzle
+Flip and Sizzle
 Flipyap
 Flollo
 Flood
@@ -1115,7 +1115,7 @@ Flood Victory
 Flooded
 Floodgate
 Floor It!
-Flotsam, Jetsam
+Flotsam, Jetsam
 Fly, You Fools!
 Flyin' High
 Flying Colors
@@ -1127,17 +1127,17 @@ Foehammer Echo
 Foehammer Victor
 Fog
 Fog Skull
-Fog of War
+Fog of War
 Folks Need Heroes...
-Follow in Flight
-Follow Our Brothers
+Follow in Flight
+Follow Our Brothers
 Foot Soldier
 Foothold
 For a brick, he flew pretty good!
 Force Multiplyer
 Force of Will
 Force to be Reckoned With
-Force Multiplyer
+Force Multiplyer
 Forerunner
 Forerunner Legacy
 Foreshadow
@@ -1171,7 +1171,7 @@ Fracture
 Fractures
 Fragments
 Freak on a Streak
-Freaked Out
+Freaked Out
 Freebooter
 Freebooter Privateer
 Freeze!
@@ -1184,7 +1184,7 @@ From Downtown
 From Hell's Heart
 From the Ashes
 From the Deep
-From the Vault
+From the Vault
 Front Page News
 Frontier
 Frost
@@ -1239,8 +1239,8 @@ Ghost Star
 Ghost Town
 Ghost Wind
 Ghosts of Onyx
-Ghosts and Glass
-Ghosts of Reach
+Ghosts and Glass
+Ghosts of Reach
 Giant Hula Hoop
 Gilded Targetmaster
 Gimme That
@@ -1264,7 +1264,7 @@ Glyphology
 Go Ape Shiv
 Go for the Gold
 Go Silently Within
-Go Silently Within
+Go Silently Within
 Go, Chief! Gun It!
 Goat Roped
 Goblin
@@ -1302,9 +1302,9 @@ Great Light
 Great Purification
 Great Schism
 Greater Ark
-Greatest Journey
+Greatest Journey
 Green Machine
-Green and Blue
+Green and Blue
 Greenhorn
 Grenade
 Grenade Launcher
@@ -1334,7 +1334,7 @@ Guilty Spark
 Gumshoe
 GUNGNIR
 GUNGNIR Dvalin
-Guns in the Dark
+Guns in the Dark
 Gunslinger
 Gypsy Company
 Hadfield
@@ -1352,9 +1352,9 @@ Halo Academic
 Halo Historian
 Halo Trinity
 Halo Undergraduate
-Halo Canticles
-Halo Reborn
-Halo Theme Scorpion Mix
+Halo Canticles
+Halo Reborn
+Halo Theme Scorpion Mix
 Halo: Combat Evolved Pistol
 Halt
 Hammer Time
@@ -1393,7 +1393,7 @@ Headhunter
 Headhunters
 Heading to his Destiny
 Headlong
-Heads Up Display
+Heads Up Display
 Headshot
 Headshot
 Headshot Honcho
@@ -1404,7 +1404,7 @@ Hearts
 Heartseeker
 Heat in the Pipe
 Heavy Reading
-Heavy Price Paid
+Heavy Price Paid
 Heliopause
 Helioskrill
 Helioskrill Bloodgorger
@@ -1420,12 +1420,12 @@ Helping Hands
 Hemorrhage
 Herald
 Herald of the Reclamation
-Here in Peril
+Here in Peril
 Heresy Will Not Stay My Feet
 Heretic
 Heretic Skull
-Heretic Machine
-Heretic, Hero
+Heretic Machine
+Heretic, Hero
 Hermes
 Hermes Dolios
 Hermes II
@@ -1447,9 +1447,9 @@ High Five
 High Ground
 High Maintenance
 High Noon
-High Charity
-High Charity Quartet
-High Charity Suite
+High Charity
+High Charity Quartet
+High Charity Suite
 Highlands
 Highway
 Highway Robbery
@@ -1475,12 +1475,12 @@ Home Court Advantage
 Home Sweet Home
 Homecoming
 Homeworld Bound
-Homeworld Bound
+Homeworld Bound
 Homing In
-Honest Negotiation Suite
+Honest Negotiation Suite
 Honor Guard
-Honorable Intentions
-Honor's Song
+Honorable Intentions
+Honor's Song
 Hopeful
 Hoplite
 Hornet
@@ -1489,7 +1489,7 @@ Horse
 Hot Zone
 How Did I Lose All My Fingers?
 How Pedestrian
-How to Get Ahead in War
+How to Get Ahead in War
 Human Covenant War
 Human Weakness
 Humble Through Study
@@ -1504,7 +1504,7 @@ Hunters Hunted
 Hunters in the Dark
 Hunting Party
 Hush Now Rush Now
-Hush Now Rush Now
+Hush Now Rush Now
 Hydra
 Hydra Launcher
 Hypocenter
@@ -1549,10 +1549,10 @@ Impulse Drive
 In Amber Clad
 In It To Win It
 In the Clear
-In Absentia
-In Amber Clad
-In the Clear
-In the Substance of it
+In Absentia
+In Amber Clad
+In the Clear
+In the Substance of it
 Incineration Cannon
 Inconceivable
 Incorruptible
@@ -1588,7 +1588,7 @@ Insignificantia
 Insomnia
 Inspector
 Installation
-Installation 04
+Installation 04
 Insult upon injury
 Interaction with the Cosmos
 Interception
@@ -1602,9 +1602,9 @@ Intimate
 Into the Depths
 Into the Fire
 Into the Howling Dark
-Into Light
-Into the Belly of the Beast
-Into the Depths
+Into Light
+Into the Belly of the Beast
+Into the Depths
 Intrepid
 Intrepid Eye
 Intruder
@@ -1619,12 +1619,12 @@ Io
 Iron
 Iron Skull
 Iroquois
-Isabel's Awakening
+Isabel's Awakening
 Isolation
 It just keeps going
 It Was Inevitable
 IT'S ALIVE!
-It's Done
+It's Done
 Ivory Tower
 Ivy
 IWHBYD
@@ -1634,7 +1634,7 @@ Jacked Skull
 Jacknife
 Jackpot
 Jackrabbit
-Jameson Locke
+Jameson Locke
 Janus Key Conflict
 Jeopardy
 Jericho
@@ -1653,7 +1653,7 @@ Jumpmaster Sky Soldier
 Jungle Dragon
 Jungle Threats
 Jungle Warfare
-Jungle Threats
+Jungle Threats
 Junior Detective
 Just a Scratch
 Just A Taste
@@ -1663,19 +1663,19 @@ Just Getting Started
 Just Like Storming a Castle
 Just Sayin...I Ain't Dead
 Just the facts
-Just Ad Nauseum
-Just Beyond
+Just Ad Nauseum
+Just Beyond
 Justice
 K.I.A.
 Ka-Ching!
 Kamchatka
-Kantele Bow
+Kantele Bow
 KEEP IT CLEAN
 Keep it Clean
 Keep Your Foot on the Pedrogas
-Keep What You Steal)
+Keep What You Steal)
 Keeper of the Domain
-Keeper of Secrets
+Keeper of Secrets
 Keeper-of-Tools
 Keepers of the One Freedom
 Kestrel
@@ -1683,7 +1683,7 @@ Key
 Keyes
 Kig-Yar
 Kikowani Station
-Kilindini Harbour
+Kilindini Harbour
 Kill
 Kill from the Grave
 Kill Shot!
@@ -1714,7 +1714,7 @@ Knight in White Assassination
 Knight Takes Bishop
 Knightbane
 Knights
-Knock Knock
+Knock Knock
 Knockin' on a Forerunner Door
 Knot
 Know the ropes
@@ -1726,7 +1726,7 @@ Kronstadt
 Labyrinth
 Laden
 Lagrange
-Lament for Pvt. Jenkins
+Lament for Pvt. Jenkins
 Lance Held High
 Lancelot
 Lancer
@@ -1735,7 +1735,7 @@ Landgrave
 Lark
 Las Vegas
 Laser Blaster
-Lasky's Theme
+Lasky's Theme
 LASO
 LASO Master
 Last Dawn
@@ -1749,8 +1749,8 @@ Last Slice
 Last Stand
 Last stop, this town
 Last Strike
-Last of the Brave
-Last Stand
+Last of the Brave
+Last Stand
 Lawgiver
 Lawn Dart
 Leaks Repaired
@@ -1767,14 +1767,14 @@ Left Jab
 Legacy
 Legacy of Onyx
 Legacy Unbound
-Legacy Unbound
+Legacy Unbound
 Legend
 Legendary
 Legendary Anniversary
 Legionnaire
 Legionnaire Alaris
 Legionnaire Optio
-Legitimate Strategy
+Legitimate Strategy
 Lemme Upgrade Ya
 Lens
 Leo
@@ -1786,15 +1786,15 @@ Liberation of Faraday
 Librarian, The
 Librarian's Gift
 Librarian's Pet
-Librarian's Gift
-Library Suite
+Librarian's Gift
+Library Suite
 License to Kill
 Lich Vanguard
 Life Story
 Liftoff
 Light of Urs
 Light the Fuse
-Light is Green
+Light is Green
 Lightning in a Bottle
 Lightning Strike
 LightRifle
@@ -1803,7 +1803,7 @@ Like a Broken Record
 Like a Fine Wine
 Like Peanut Butter and Chocolate
 Links
-Lions and Tigers
+Lions and Tigers
 Lips
 Listener
 Live to Fight
@@ -1826,7 +1826,7 @@ Long Bomb
 Long Night of Solace
 Long Time Coming
 Long Time Fan
-Long Night of Solace
+Long Night of Solace
 Longbow
 Longest
 Longshore
@@ -1852,7 +1852,7 @@ Luminary
 Luminosity
 Lutyens
 LvUrFR3NZ
-Machines and Might
+Machines and Might
 Mad Dog
 Madrigal Debut
 Maelstrom
@@ -1882,7 +1882,7 @@ Man-to-Freak Communication
 Marathon
 Marathon
 Marathon Man
-Marathon Sprint
+Marathon Sprint
 Marauder
 Marauder Keres
 Marauder Kratos
@@ -1898,7 +1898,7 @@ Master Forger
 Mastery
 Matador
 Matrix
-Mausoleum Suite
+Mausoleum Suite
 Maverick
 Maverick Jester
 Maximum Effort
@@ -1919,12 +1919,12 @@ Meltdown
 Memento Mori
 Memorial Basin
 Memories
-Menace No More
+Menace No More
 Mendicant Bias
 Mercy
 Meridian
 Meridian Station
-Meridian Crossing
+Meridian Crossing
 Meriwether Lewis
 Merry Berry
 Metropolis
@@ -1961,11 +1961,11 @@ Molten
 Mombasa
 Mombasa Arrival
 Mombasa Streets
-Mombasa Arrival
-Mombasa Suite
+Mombasa Arrival
+Mombasa Suite
 Momma's Boy
 Mona Lisa
-Money or Meteors
+Money or Meteors
 Mongoose
 Mongoose Mowdown
 Monitor Bootcamp
@@ -1975,10 +1975,10 @@ Monopolized
 Monstrous
 Monte Cassino
 Moon crab
-Moon Over Mombasa
+Moon Over Mombasa
 Moon's Out, Goons Out
 Morbid curiosities
-More Than His Share
+More Than His Share
 Mortal Dictata
 Mortardom
 Most Valuable Deck Hand
@@ -2007,7 +2007,7 @@ Nagato Makes Moving Easy
 Naked Tyrant
 Narrows
 Native Tongue
-Native Tongue
+Native Tongue
 Natural intelligence
 Naughty Naughty
 Nebula
@@ -2015,7 +2015,7 @@ Needler
 Needs More Whammy Bar
 Negative, Ghostrider
 Nemesis
-Neon Night
+Neon Night
 Neos Atlantis
 Nereid
 Nerve Center
@@ -2023,9 +2023,9 @@ Network
 Never Knew What Hit Them
 Never Leave a Man Behind
 Never Tell Me the Odds
-Never Forget
-Never Forget (Midnight Version)
-Never Surrender
+Never Forget
+Never Forget (Midnight Version)
+Never Surrender
 New Alexandria
 New Blood
 New Carthage
@@ -2034,18 +2034,18 @@ New Mombasa
 New Mombasa Nightmare
 New Phoenix Incident
 New Ways to Save a Buck
-New Alexandria
-New Foe
+New Alexandria
+New Foe
 Next Move
-Next Move
+Next Move
 NEXT!
 Nice Catch!
 Nice Try
 Nice Work Dawg!
 Night Knight
 Night Watch
-Night Dreams
-Night Guards
+Night Dreams
+Night Guards
 Nightfall
 Nightingale
 Ni-Hard
@@ -2067,7 +2067,7 @@ No Shell Snail
 No Smoking
 No Stone Unturned
 No Witnesses
-No Stone Unturned
+No Stone Unturned
 Noble
 Noble Actual
 Noble Honor
@@ -2085,10 +2085,10 @@ Not a Scratch
 Not on My Watch
 Not Some Recruit Anymore
 Not Your First Rodeo
-Not a Number
+Not a Number
 Noted
 Nothing too difficult, then?
-Nothing Ventured, Nothing Gained
+Nothing Ventured, Nothing Gained
 Now Just You Gúta Minute
 Now They Fly?
 Nowhere to Hide
@@ -2126,7 +2126,7 @@ On the Brink
 On Top of the World
 On Your Shield
 On Your Toes
-On a Pale Horse
+On a Pale Horse
 Onan
 One and Done
 One Down, 51 to Go
@@ -2137,25 +2137,25 @@ One Got Away
 One Man Army
 One Three Zero
 One Way Ride
-One Final Effort
-One Problem at a Time
-One Way Ride
+One Final Effort
+One Problem at a Time
+One Way Ride
 ONI
 ONI Alpha Site
 ONI PRO 49776
 ONI: Sword Base
-ONI: Sword Base
-Only a Star, Only the Sea
+ONI: Sword Base
+Only a Star, Only the Sea
 Onslaught
 Open Hand
-Opening Suite
+Opening Suite
 Operation Completion
 Operation Talon
 Operator
 Operator
 Optican
 Oracle
-Orbit of Glass
+Orbit of Glass
 Orbital
 Orbital Aphelion
 Orbital Designator
@@ -2167,18 +2167,18 @@ Ord Casto
 Ordnance
 Ordnance Earned
 Origin and Time
-Origin and Time
+Origin and Time
 Origins
 Orion
 Orpheus
 Orphic Spear
 Osiris
-Osiris Suite
+Osiris Suite
 Our big green style
 Ouroboros
-Out of Darkness
-Out of Shadow
-Out of There Alive
+Out of Darkness
+Out of Shadow
+Out of There Alive
 Outcast
 Outflood the Flood
 Outpost
@@ -2210,19 +2210,19 @@ Palace Hotel
 Paladin
 Palance of Pain
 Pale Blade
-Pale Rider
+Pale Rider
 Palette of Beauty
 Palmer's Pure Gold
 Paper Beats Rock
 Paper Trail
 Paradiso
 Parallax
-Paranoid Illusion
+Paranoid Illusion
 Paratus
 Pariah
 Paris
-Part of the Plan
-Part of The Problem
+Part of the Plan
+Part of The Problem
 Particular Justice
 Parting the Sea
 Party Hearty
@@ -2244,15 +2244,15 @@ Penitent Tangent
 Penny Pincher
 Pension Plan
 Peon
-Perchance to Dream
+Perchance to Dream
 Perdition
 Perfect Density
 Peril
 Peril on Gao
-Perilous Journey
+Perilous Journey
 Perpetual Devotion
 Perpetual Motion
-Perpetual Motion
+Perpetual Motion
 Persephone
 Perspective
 Pest Control
@@ -2270,7 +2270,7 @@ Pillar of Awesome
 Pilot
 Pinata
 Pinata Skull
-Pinch Maneuver
+Pinch Maneuver
 Pink and Deadly
 Pink Mist
 Pinnacle
@@ -2284,7 +2284,7 @@ Pitchin' a Tent
 Pitfall
 Pitiless
 Plan of Attack
-Plan of Attack
+Plan of Attack
 Planet
 Planet Breaker
 Plantetary
@@ -2345,7 +2345,7 @@ Promethean
 Promethean
 Promethean Knight
 Promise of Dawn
-Promise the Girl
+Promise the Girl
 Promises to Keep
 Prone to Drift
 Prophecy
@@ -2356,7 +2356,7 @@ Prophet of Regret
 Prophet of Restraint
 Prophet of Tolerance
 Prophet of Truth
-Prophet Suite
+Prophet Suite
 Prophetess of Obligation
 Prophets' Bane
 Prophet's Bane
@@ -2378,8 +2378,8 @@ Pure Resolve
 Purity of Spirit
 Purpose
 Purveyor of Serenity
-Push Through
-Put the Lady Down
+Push Through
+Put the Lady Down
 PWND
 Pylons
 Pyrrhic Solution
@@ -2387,9 +2387,9 @@ Quarantine Zone
 Quick to Adjust
 Quick Trigger Finger
 Quicker Than Reading the Book
-Quiet Giant
+Quiet Giant
 Quis custodiet ipsos custodes?
-Quite the Vacation Resort
+Quite the Vacation Resort
 Race
 Racing the Clock
 Radiant Perception
@@ -2415,12 +2415,12 @@ Rampancy
 Rampant
 Rampant Speculation
 Rampart
-Random Slipspace Trajectory
+Random Slipspace Trajectory
 Ranger
 Rank Up
 Rapid Conversion
 Rapid Recon
-Rapid Recon
+Rapid Recon
 Rapturous Arc
 Rat Race
 Rat's Nest
@@ -2438,7 +2438,7 @@ Reading Room
 Ready for Departure
 Ready For The Sequel
 Ready or Not
-Ready or Not
+Ready or Not
 Reaper
 Reaper Grim
 Reaper Mortican
@@ -2503,8 +2503,8 @@ Reprisal's Fire
 Requiem
 Requiescat in Pace
 Requires Adjustment
-Rescue Mission
-Rescued Or Not
+Rescue Mission
+Rescued Or Not
 Resolute
 Resolute Harmony
 Resplendent Fervor
@@ -2518,7 +2518,7 @@ Return of the Prometheans
 Return to Sanghelios
 Return to Sender
 Return to the Ark
-Return to the Fold
+Return to the Fold
 Reunion
 Revel in Destruction
 Revenant
@@ -2550,14 +2550,14 @@ Rise of Atriox
 Rise of Humanity
 Rising
 Rising Waters
-Risk and Reward
+Risk and Reward
 River of Light
 Road Rage
 Road Trip
 Roamer
-Rock and Ice
-Rock Anthem for Saving the World
-Rock in a Hard Place
+Rock and Ice
+Rock Anthem for Saving the World
+Rock in a Hard Place
 Rocket
 Rocket Launcher
 Rocket Pod Turret
@@ -2566,7 +2566,7 @@ Rogue
 Rogue
 Rogue Cutthroat
 Rogue Nation
-Roll Call
+Roll Call
 Rolling Thunder
 Roman Blue
 Rooftop Runner
@@ -2579,7 +2579,7 @@ Royal
 Rubicon
 Run and Gunned
 Run Through the Jungle
-Run Little Demons
+Run Little Demons
 Runes
 Running Riot
 Running The Show
@@ -2592,8 +2592,8 @@ Sacred Consecration
 Sacred Icon
 Sacred Promise
 Sacred Promissory
-Sacred Icon
-Sacred Icon Suite
+Sacred Icon
+Sacred Icon Suite
 Sacrifice
 Sadist
 Safeguard
@@ -2639,7 +2639,7 @@ Scavengers
 Sceptre
 Scholar
 Scorched Earth
-Scorched Earth
+Scorched Earth
 Score Attack
 Score!
 Scorpion
@@ -2657,7 +2657,7 @@ Scurty Bump
 Season of Plenty
 Seattle
 Second Homogeneous Clarity
-Second Prelude
+Second Prelude
 Seconds
 Secret Agent
 Secrets
@@ -2675,11 +2675,11 @@ Send in the Experts
 Send Me Out... with a Bang
 Sentinel Beam
 Sentinel size matters
-Sentinel Song
+Sentinel Song
 Sentinels
 Sentry
 Sentry of El Morro
-Sentry Battle
+Sentry Battle
 Sergeant
 Servants of the Abiding Truth
 Serve and Protect
@@ -2699,7 +2699,7 @@ Shark
 Sharktooth Grin
 Sharpshooter
 Shatter
-Shattered Legacy
+Shattered Legacy
 She's my Fixer Upper
 Shield World
 Shields of Requiem
@@ -2724,7 +2724,7 @@ Sidewinder
 Siege at Voi
 Siege of Faraday
 Siege of Ivory Tower
-Siege of Madrigal
+Siege of Madrigal
 Sierra 117
 Sight Seeing
 Sightseeing
@@ -2740,19 +2740,19 @@ Silent Shepherds
 Silent Storm
 Silverback
 Silvertip
-Simple Mystery
+Simple Mystery
 Simulacra
-Singular Vision
-Siren Song
+Singular Vision
+Siren Song
 Site Defense
 Site Extracted
 Site Offense
 Site Saviour
 Six Echo Two
 Six Pedals, Four Directions
-Six-Armed Robbing Suit
+Six-Armed Robbing Suit
 Size Is Everything
-Skeleton Crew
+Skeleton Crew
 Skewer Stopper
 Skidbladnir
 Skirmish
@@ -2865,15 +2865,15 @@ Spartan Operations
 Spartan Ops
 Spartan Strike
 Spartan Swords
-Spartan Strike
+Spartan Strike
 SPARTAN-III Program
 Spartans
-Spartan's Regret
+Spartan's Regret
 Spear of Light
 Spear: Broken
 Spearhead
 Special Delivery
-Special Delivery
+Special Delivery
 Speckled Jungle Dragon
 Spectre
 Spectrum
@@ -2890,7 +2890,7 @@ Spire
 Spirit
 Spirit Graveyard Stand-Off
 Spirit Of Fire
-Spirit of Fire
+Spirit of Fire
 Spitfire
 Splaser
 Splatter
@@ -2921,7 +2921,7 @@ Stalker
 Stalker
 Stalker Arrow
 Stalking Prey
-Stalking Prey
+Stalking Prey
 Stalwart
 Stalwart Dawn
 Standard Operating Brocedure
@@ -2932,7 +2932,7 @@ Stark
 Starry Night
 Starved For Shields
 Stasis
-Status Quo Show
+Status Quo Show
 Staving Off the Infection
 Stay Back!
 Steadfast Pursuit
@@ -2940,16 +2940,16 @@ Steady Aim
 Stealth
 Stealth
 Steel
-Steel and Light
-Steel Hands, Gloves Off
+Steel and Light
+Steel Hands, Gloves Off
 Steppin' Razor
-Steward, Shepherd, Lonely Soul
+Steward, Shepherd, Lonely Soul
 Stick It
 Stick it to the Man!
 Stick With It...A Little Longer
 Sticker Shock
 Still Sharp
-Still, Moving
+Still, Moving
 Stinger
 Stingray
 Stirring the pot
@@ -2962,7 +2962,7 @@ Stormbound
 Stormbreak
 Stormstrike
 Str8 Rippin
-Strategic Feint
+Strategic Feint
 Strategos
 Strident
 Strider
@@ -2977,8 +2977,8 @@ Stunning!
 Sublime Transcendence
 Subnova
 Sugar Cookies
-Suite Autumn
-Suite Fall
+Suite Autumn
+Suite Fall
 Summit
 SunSpear
 Sunspot
@@ -3019,7 +3019,7 @@ Sydney
 Symbiotic
 Symphony of Pain
 Tactical Carry
-Tactical Error
+Tactical Error
 Tactician
 Take a Hike
 Take A Look
@@ -3186,21 +3186,21 @@ The Truth and Reconciliation
 The Wave Breaks
 The Way Home
 The Will of the Prophets
-The Banishing
-The Big Guns
-The Canopy for Cover
-The Gun Pointed at the Head of the Universe
-The Last Spartan
-The Light at the End
-The Long Run
-The Maw
-The Menagerie
-The Office of Naval Intelligence
-The Package
-The Pillar of Autumn
-The Rookie
-The Time to Ride
-The Trials
+The Banishing
+The Big Guns
+The Canopy for Cover
+The Gun Pointed at the Head of the Universe
+The Last Spartan
+The Light at the End
+The Long Run
+The Maw
+The Menagerie
+The Office of Naval Intelligence
+The Package
+The Pillar of Autumn
+The Rookie
+The Time to Ride
+The Trials
 Thel Vadam
 Thermopylae
 They Come Back
@@ -3218,17 +3218,17 @@ This Oliphant Has No Brakes
 This One's for Jenkins!
 This Side Up
 This war is over
-This Armour
-This Glittering Band
-This is Our Land
-This is the Hour
+This Armour
+This Glittering Band
+This is Our Land
+This is the Hour
 Thor
 Those Left Behind
-Three Gates
+Three Gates
 Three-Nine-Two
 Threshold Ceremony
 Throne of Bones
-Through Your Hoops
+Through Your Hoops
 Thunderstorm
 Thunderstorm Skull
 Tidal
@@ -3242,14 +3242,14 @@ Time Shift
 Timelock
 Timmy
 Tip of the Spear
-Tip of the Spear
+Tip of the Spear
 Tipping Point
 Titan
 To War
-To Galaxy
-To Galaxy (Extended)
-To Kill a Demon
-To Sleep
+To Galaxy
+To Galaxy (Extended)
+To Kill a Demon
+To Sleep
 Together Again
 Tokyo Rules
 Tombstone
@@ -3270,7 +3270,7 @@ Tour of Duty
 Tourist
 Tower
 Toybox
-Trace Amounts
+Trace Amounts
 Tracer
 Tracer Jackpoint
 Tracer Signal
@@ -3278,14 +3278,14 @@ Tracker
 Tracker
 Trading Down
 Trafalgar
-Traffic Jam
+Traffic Jam
 Tragic Solitude
 Trail, The
 Training Wheels
 Traitor
 Tranquil Composure
 Transmission Interrupted
-Trapped in Amber
+Trapped in Amber
 Trash compactor
 Trebuchet
 Tremor
@@ -3306,11 +3306,11 @@ Tripping Light
 Triumphant Declaration
 Trophy Collector
 Troy
-True Arbiter
+True Arbiter
 Truth
 Truth and Reconciliation
-Truth and Reconciliation
-Truth and Reconciliation Suite
+Truth and Reconciliation
+Truth and Reconciliation Suite
 Truth's Fleet
 Tsantsa
 Tsantsa
@@ -3342,39 +3342,39 @@ Ultra Mines
 Unbelievable
 Unbreakable
 Unconfirmed
-Unconfirmed Reports
+Unconfirmed Reports
 Undefeated
 Under Siege
 Under the Dark
-Under Cover of Night
-Under Your Hurdles
+Under Cover of Night
+Under Your Hurdles
 Undiminished Entelechy
 Unearthed
 Unflinching Resolve
 Unforgotten
-Unforgotten Memories
-Unfortunate Discovery
+Unforgotten Memories
+Unfortunate Discovery
 Unfriggenbelievable
 Unggoy
 Unicorn
 Unicorn
 Unless you've been here, you can't know
-Unless You Mean to Shoot
+Unless You Mean to Shoot
 Unnamed Covenant Cruiser
 Unnamed frigate
 Unrelenting
 Unreliable Narrator
-Unreliable Exploration
+Unreliable Exploration
 UNSC Spartan
 Unsolved Mysteries
-Unsullied Memory
+Unsullied Memory
 Untethered
 Unto Dust
 Unto the Breach
 Untouchable
-Unusually Quiet
+Unusually Quiet
 Unwavering Discipline
-Unwearied Heart
+Unwearied Heart
 Unyielding
 Unyielding Hierophant
 Up All Night
@@ -3466,13 +3466,13 @@ Wake up
 Wake Up Buttercup
 Wake Up, Buttercup
 Wake Up, John
-Wake Me When You Need Me
+Wake Me When You Need Me
 Walk it Off
 Walk of Shame
-Walk Softly
+Walk Softly
 Walking Encyclopedia
 Walking Snail
-Walking Away
+Walking Away
 Walk-Off Winner
 Wall of Recognition
 Walled In
@@ -3493,7 +3493,7 @@ Warrior
 Warrior Blade
 Warrior Helm
 Warrior Shield
-Warrior World
+Warrior World
 Warthog
 Wartime Articles of Secrecy
 Warzone
@@ -3511,7 +3511,7 @@ Waypoint
 We go Feet First
 We Got This
 We Need to Talk
-We Remember
+We Remember
 Weapon of Choice
 Weapon of Zeus
 Weapons Free
@@ -3527,8 +3527,8 @@ We're Gonna Need a Bigger Ship
 We're in for Some Chop
 Were It So Easy
 We're Just Getting Started
-We're Burning Sunshine
-We're Not Going Anywhere
+We're Burning Sunshine
+We're Not Going Anywhere
 Wetwork
 Wetwork Cleaner
 Wetworks
@@ -3542,7 +3542,7 @@ What have we here?
 What is Yours is Also Mine
 What Power Outage?
 What Remains
-What Once Was Lost
+What Once Was Lost
 What's Yours is Mine
 Wheelman
 Where Am I?
@@ -3555,7 +3555,7 @@ Whistle Stop Tour
 White Scar
 Who Needs Red Flag?
 Who Needs Them?
-Who's There?
+Who's There?
 Whuppopotamus
 Whuppopotamus Skull
 Why Am I Here?
@@ -3573,7 +3573,7 @@ Wink of an Eye
 Winter
 Winter Contingency
 Winter Urgency
-Winter Contingency
+Winter Contingency
 Wiretapping
 Wiseguy
 Wisening Up
@@ -3582,18 +3582,18 @@ Witch Doctor
 Witching Hour
 With Her Whisper
 With Your Shield or On It
-With Her Whisper
+With Her Whisper
 Witness
 Wizard
 Wolf
 Wolf
 Wolf-faced Planet
 Wolverine
-Wolverines Reborn
-Wolverines Return
+Wolverines Reborn
+Wolverines Return
 Wombat
 Word of Mouth
-Work Burns and Runaway Grunts
+Work Burns and Runaway Grunts
 Workers' Compensation
 World Traveler
 Worldquake
@@ -3614,7 +3614,7 @@ Xeno orders
 Xenoarchaeology
 Xenophobia
 Yapyap's Rebellion
-Yawning Chasm
+Yawning Chasm
 Yes No You Decide
 Yin Yang
 YOLO Strats
@@ -3638,7 +3638,7 @@ You've been busy
 You've got a case of the Birley
 Zanzibar
 Zealot
-Zealous Champion
+Zealous Champion
 Zebra
 Zenith
 Zeta Project
